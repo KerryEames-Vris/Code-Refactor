@@ -1,3 +1,5 @@
+/* universal attributes */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,7 +10,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* Header details */
+/* Header attributes */
 
 .header {
   padding: 20px;
@@ -53,9 +55,7 @@ p {
   font-size: 16px;
 }
 
-/* End header details*/
-
-/* Page spanning landing image below header*/
+/* Page spanning landing image below header */
 
 .hero {
   height: 800px;
@@ -66,7 +66,7 @@ p {
   background-position: center;
 }
 
-/* main sections detail */
+/* main sections attributes */
 
 .float-left {
   float: left;
@@ -138,6 +138,8 @@ p {
   font-size: 36px;
 }
 
+/* aside sections attributes */
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -196,6 +198,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* footer attributes */
 
 .footer {
   padding: 30px;
