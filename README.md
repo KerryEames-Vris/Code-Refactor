@@ -7,7 +7,7 @@ I was given an existing code base of HTML and CSS to refactor to the standards o
 1. Select the clone option from the repository page and copy the SSH link.
 2. Navigate your terminal of choice to the directory you'd like the repository to be stored in.
 3. Enter "git clone " and paste the copied SSH link into the terminal and run the command.
-4. Open the HTML and CSS files using your preffered code editing software
+4. Open the HTML and CSS files using your preferred code editing software
 
 ## Usage
 This code shows the requisite webpage as shown. The project was not to make any changes, just to refactor.
